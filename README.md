@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/daibert.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=daibert)
 
-# [F I  R S T D R A F T]
+# [F I  R S T D R A F T] 
 
 # Azure AKS Blue Green Deployment Best Practices
 
